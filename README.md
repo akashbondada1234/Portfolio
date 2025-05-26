@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website repository! This site is built to showcase my projects, skills, and professional background.
 
 ## 🖥️ Live Website
-Check out my portfolio live at [berkaykrk.netlify.app](https://berkaykrks.netlify.app/).
+Check out my portfolio live at https://akashbondada1234.github.io/Portfolio/.
 
 ## DEMO
 ![project-photo](/images/github.png)
