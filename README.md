@@ -1,9 +1,9 @@
-# Ata Berkay Karakus Portfolio Website 🌐
+# Bondada Akash Portfolio Website 🌐
 
 Welcome to my personal portfolio website repository! This site is built to showcase my projects, skills, and professional background.
 
 ## 🖥️ Live Website
-Check out my portfolio live at [berkaykrks.netlify.app](https://berkaykrks.netlify.app/).
+Check out my portfolio live at https://akashbondada1234.github.io/Portfolio/.
 
 ## DEMO
 ![project-photo](/images/github.png)
@@ -27,8 +27,8 @@ This website is a personal portfolio where I share my development projects and p
 ## 📧 Contact Me
 
 For inquiries or collaboration opportunities, reach out via:
-- [Email](mailto:karakusataberkay@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/berkaykrks/)
+- [Email](akashbondada4@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bondadaakash/)
 
 ## 📄 License
 
