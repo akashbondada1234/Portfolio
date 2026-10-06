@@ -1,0 +1,3 @@
+const API=import.meta.env.VITE_API_URL||'http://localhost:8000';
+async function request(path,options={}){const token=localStorage.getItem('lumina_token'); const headers={'Content-Type':'application/json',...(token?{Authorization:`Bearer ${token}`}:{}) ,...(options.headers||{})}; const r=await fetch(API+path,{...options,headers}); const data=await r.json().catch(()=>({})); if(!r.ok) throw new Error(data.detail||'Something went wrong'); return data}
+export const api={get:(p)=>request(p), post:(p,b)=>request(p,{method:'POST',body:JSON.stringify(b)}), put:(p,b)=>request(p,{method:'PUT',body:JSON.stringify(b)}), del:(p)=>request(p,{method:'DELETE'})};
