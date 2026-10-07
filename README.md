@@ -1,5 +1,13 @@
 # Bondada Akash — Full Stack Developer Portfolio
 
+<p align="center">
+  <a href="https://akash-fullstack-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Open_Live_Portfolio-c86b42?style=for-the-badge" alt="Open Live Portfolio"/>
+  </a>
+</p>
+
+🌐 **Live portfolio:** [https://akash-fullstack-portfolio.netlify.app/](https://akash-fullstack-portfolio.netlify.app/)
+
 ![Portfolio](https://img.shields.io/badge/Portfolio-Live-c86b42?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-Development-1e302a?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Currently_Learning-5a8f72?style=for-the-badge&logo=python&logoColor=white)
@@ -42,9 +50,9 @@ I am an MCA graduate and Full Stack Developer candidate focused on Java, Spring 
 | Support exposure | Linux, SQL troubleshooting, monitoring and ITIL concepts |
 | Project style | Training-based and hands-on practical projects |
 
-## Technical skills
+## 💻 Development Skills
 
-## Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -65,16 +73,6 @@ I am an MCA graduate and Full Stack Developer candidate focused on Java, Spring 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-### API and Support Technologies
-
-![Apigee](https://img.shields.io/badge/Apigee_API_Management-c86b42?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1e302a?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85b44b?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-5c8f68?style=for-the-badge)
-![AppDynamics](https://img.shields.io/badge/AppDynamics-64736a?style=for-the-badge)
-![Autosys](https://img.shields.io/badge/Autosys-8b7654?style=for-the-badge)
-![ITIL](https://img.shields.io/badge/ITIL-6d806f?style=for-the-badge)
-
 ### Development
 
 Java, Python, JavaScript, OOP, Data Structures, HTML5, CSS3, Thymeleaf and Bootstrap.
@@ -86,10 +84,6 @@ Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC, REST APIs, JSON, Post
 ### Databases
 
 MySQL, Oracle 19C, SQL Server, relational design, normalization, joins, indexing, transactions and query optimization.
-
-### API and support exposure
-
-Apigee Edge/X, OAuth 2.0, JWT, API keys, Quota, Spike Arrest, Unix/Linux, Bash, SQL troubleshooting, Splunk, AppDynamics, Autosys and ITIL.
 
 ### Tools
 
@@ -108,6 +102,10 @@ Apigee Edge/X, API proxies, API lifecycle concepts, OAuth 2.0, JWT, API keys, Qu
 
 ![Unix/Linux](https://img.shields.io/badge/Unix%2FLinux-1e302a?style=for-the-badge&logo=linux&logoColor=white)
 ![SQL Troubleshooting](https://img.shields.io/badge/SQL_Troubleshooting-5a8f72?style=for-the-badge)
+![Oracle 19C](https://img.shields.io/badge/Oracle_19C-c86b42?style=for-the-badge)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-8b7654?style=for-the-badge)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-607568?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-526b78?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-64736a?style=for-the-badge)
 ![AppDynamics](https://img.shields.io/badge/AppDynamics-8b7654?style=for-the-badge)
 ![Autosys](https://img.shields.io/badge/Autosys-6d806f?style=for-the-badge)
